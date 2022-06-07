@@ -7,7 +7,7 @@
   <p align="center">
     DSAI Final
     <br />
-    <a href="https://drive.google.com/file/d/1S-Z8nW06R4dPNLm3soxhVm5dB_KgDFM3/view?usp=sharing"><strong>Slidecs »</strong></a>
+    <a href="https://drive.google.com/file/d/1S-Z8nW06R4dPNLm3soxhVm5dB_KgDFM3/view?usp=sharing"><strong>Slide »</strong></a>
     <br />
   </p>
 </p>
