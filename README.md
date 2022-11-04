@@ -18,7 +18,7 @@
 1. Check missing values
 2. Remove outliers
 3. Check anomalies 
-    * 我認為退貨行為屬正常現象，因此決定保留商品銷量負值
+    * Retain negative values for product sales
 4. Combine duplicated feature values
 5. Feature construction
 
